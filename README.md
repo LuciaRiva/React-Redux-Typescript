@@ -26,12 +26,11 @@ Este repositorio contiene los ejercicios prácticos y el proyecto final desarrol
 
 
 ## 🚀 Conclusión
-```markdown
-Este curso me ha permitido adquirir las habilidades necesarias para desarrollar aplicaciones web modernas con React, Redux y TypeScript. El proyecto final es una muestra de cómo aplicar todos estos conocimientos en un entorno real.
 
+Este curso me ha permitido adquirir las habilidades necesarias para desarrollar aplicaciones web modernas con React, Redux y TypeScript. El proyecto final es una muestra de cómo aplicar todos estos conocimientos en un entorno real.
 ¡Gracias por visitar mi repositorio! 😊
 
-## Contacto y Redes Sociales 📬
+### Contacto y Redes Sociales 📬
 
 - [LinkedIn](https://www.linkedin.com/in/lucia-riva/)
 - [Behance](https://www.behance.net/LRiva)
