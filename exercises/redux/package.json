@@ -26,7 +26,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "preview":"vite preview",
+    "preview": "vite preview",
     "docs": "npx jsdoc -c jsdoc.json"
   },
   "eslintConfig": {
